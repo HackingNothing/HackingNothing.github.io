@@ -1,2 +1,3 @@
-# HackingNothing.github.io
-Public live demo for the date invitation app
+# Date invitation live demo
+
+Source: https://github.com/HackingNothing/date-invite
